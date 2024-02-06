@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Chetan Kumar Pulipati</h1>
 <img id="theme" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <div align="left">
-~  🔭 I’m currently working on **Data Visualisation**
   
 ~  👯 I’m looking to collaborate on **Open Source Contribution**
   
