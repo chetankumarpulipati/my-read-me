@@ -1,15 +1,13 @@
 <h1 align="left">Hi 👋, I'm Chetan Kumar Pulipati</h1>
 <img id="theme" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<div align="left">
-  
-~  👯 I’m looking to collaborate on **Open Source Contribution**
-  
+<div align="left">  
 ~  📫 How to reach me **chetankumarpulipati4@gmail.com**
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chetank77580589" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chetank77580589" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chetan_kumar_p_04/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chetan_kumar_p_04/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chetan-kumar-b4388926b/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chetan_kumar_p_04/" height="30" width="40" /></a>
 </p>
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
