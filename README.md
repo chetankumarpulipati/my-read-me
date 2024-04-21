@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chetank77580589" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chetank77580589" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chetan_kumar_p_04/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chetan_kumar_p_04/" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/chetan_kumar_p_04/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chetan_kumar_p_04/" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/chetan-kumar-b4388926b/" target="blank"><img align="left" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="https://www.instagram.com/chetan_kumar_p_04/" height="30" width="30" /></a>
 </p>
 <br></br>
