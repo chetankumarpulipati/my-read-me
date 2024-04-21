@@ -1,4 +1,18 @@
 <h1 align="left">Hi 👋, I'm Chetan Kumar Pulipati</h1>
+<p>I work on Web Technologies - HTML, CSS, JS, REACT JS, NODE.JS, Django, Mongo DB, Mysql to develop web projects</p>
+<p>I also work on Android App Development Technologies - Kotlin, Java, Jetpack Compose, React Native to develop android apps</p>
+<p>Currently, I am learning Data Science and looking for ML Projects. I am available to collaborate and work on open source projects.</p>
+<p><b>Tools used by me:</b></p>
+<p>
+  <ul>Sublime Text</ul>
+  <ul>VS Code</ul>
+  <ul>XAMPP</ul>
+  <ul>Android Studio</ul>
+  <ul>Firebase</ul>
+  <ul>Replit</ul>
+  <ul>Postman</ul>  
+  <h5>Version Control System(VCS) - Git and Github</h5>
+</p>
 <img id="theme" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 <div align="left">  
 ~  📫 How to reach me **chetankumarpulipati4@gmail.com**
